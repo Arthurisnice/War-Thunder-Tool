@@ -45,6 +45,7 @@
     {"id":{"name":"image_loader_ClipBoard","path":"objects/image_loader_ClipBoard/image_loader_ClipBoard.yy",},},
     {"id":{"name":"image_loader","path":"objects/image_loader/image_loader.yy",},},
     {"id":{"name":"O_area","path":"objects/O_area/O_area.yy",},},
+    {"id":{"name":"O_flag","path":"objects/O_flag/O_flag.yy",},},
     {"id":{"name":"O_mouse","path":"objects/O_mouse/O_mouse.yy",},},
     {"id":{"name":"type","path":"objects/type/type.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
