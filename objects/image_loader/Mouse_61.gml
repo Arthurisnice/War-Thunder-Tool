@@ -1,0 +1,1 @@
+//if amount>0 && place_meeting(mouse_x,mouse_y,O_area) {amount--}
