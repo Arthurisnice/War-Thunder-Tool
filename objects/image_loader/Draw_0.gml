@@ -10,7 +10,7 @@ draw_set_valign(fa_middle)
 if searching==true
 {
 	text_txt = get_text(text_txt)
-	draw_text(x,y+60,text_txt)
+	draw_text(x,y+75,text_txt)
 	for (var l=0; l<2; l++)
 	{
 	
@@ -28,6 +28,6 @@ if searching==true
 	}
 	var leng = string_width(text_txt)/2
 	string_val+=((leng)-string_val)/10
-	draw_line(x-string_val-3,y+70,x+string_val+1,y+70)
+	draw_line(x-string_val-3,y+85,x+string_val+1,y+85)
 }
 else {text_txt=""; string_val+=(0-string_val)/10}

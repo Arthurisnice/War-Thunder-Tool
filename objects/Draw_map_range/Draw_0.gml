@@ -28,11 +28,13 @@ if click_counter==2
 {
 	draw_circle_color(pos_x_arr[0],pos_y_arr[0],3,c_red,c_red,false)
 	draw_circle_color(pos_x_arr[1],pos_y_arr[1],3,c_red,c_red,false)
+	var dir = point_direction(pos_x_arr[0],pos_y_arr[0],pos_x_arr[1],pos_y_arr[1])
+	draw_sprite_ext(S_saquare,0,pos_x_arr[1],pos_y_arr[1],deviation,2,dir,c_white,1)
 }
 
 draw_self()
 
-draw_set_font(Font1)
+draw_set_font(Font2)
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
@@ -42,6 +44,8 @@ if click_counter==2
 {
 	var dis = point_distance(pos_x_arr[0],pos_y_arr[0],pos_x_arr[1],pos_y_arr[1])
 	draw_set_color(c_black)
-	draw_text(x,y,round(dis/range_array[image_loader.amount]))
+	var str_temp = round(dis/image_loader.list[image_loader.amount].map_value)
+	draw_text(x,y,string(str_temp)+"m")
 	draw_set_color(c_white)
 }
+

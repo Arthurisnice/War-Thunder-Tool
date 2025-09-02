@@ -65,6 +65,7 @@
     {"id":{"name":"FOLDER","path":"sprites/FOLDER/FOLDER.yy",},},
     {"id":{"name":"outline","path":"sprites/outline/outline.yy",},},
     {"id":{"name":"S_mouse","path":"sprites/S_mouse/S_mouse.yy",},},
+    {"id":{"name":"S_saquare","path":"sprites/S_saquare/S_saquare.yy",},},
     {"id":{"name":"screen_type","path":"sprites/screen_type/screen_type.yy",},},
     {"id":{"name":"spr_sheet_2","path":"sprites/spr_sheet_2/spr_sheet_2.yy",},},
     {"id":{"name":"spr_sheet","path":"sprites/spr_sheet/spr_sheet.yy",},},
