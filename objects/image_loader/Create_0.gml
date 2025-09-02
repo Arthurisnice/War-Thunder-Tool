@@ -10,9 +10,19 @@ amount=0
 
 leng_num=0
 
+text_txt=""
 
+searching=false
 
 json_list = import_json("json_ranges#search.txt")
 
 
 list = json_list[0].maps;
+
+qtt=0
+
+string_val=0
+
+end_result=array_create(6)
+
+last_txt=text_txt
