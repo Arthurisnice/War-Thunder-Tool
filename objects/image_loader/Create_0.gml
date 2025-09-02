@@ -2,7 +2,7 @@ image_file="base_image_example.png"
 img_file=""
 my_cool_image=sprite_add(image_file, 0, false, false, 415, 95)
 
-word_array = ["en","es","pt"]
+word_array = ["en","es","pt","uk","ch","ja"]
 
 image_speed=0
 
@@ -23,6 +23,7 @@ qtt=0
 
 string_val=0
 
+font_to=Font_ch
+
 end_result=array_create(6)
 
-last_txt=text_txt

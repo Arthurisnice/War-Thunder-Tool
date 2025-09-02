@@ -1,0 +1,5 @@
+draw_set_color(c_black)
+draw_set_alpha(image_alpha)
+draw_rectangle(0,0,5000,5000,false)
+draw_set_alpha(1)
+draw_set_color(c_white)

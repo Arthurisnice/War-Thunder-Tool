@@ -3,7 +3,7 @@ draw_self()
 
 draw_text(635, 60,list[amount].map_name);
 
-draw_set_font(Font2)
+draw_set_font(font_to)
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
@@ -11,10 +11,10 @@ if searching==true
 {
 	text_txt = get_text(text_txt)
 	draw_text(x,y+75,text_txt)
-	for (var l=0; l<2; l++)
+	for (var l=0; l<array_length(word_array); l++)
 	{
 	
-	var list_temp = json_list[l].maps
+		var list_temp = json_list[O_flag.val].maps
 		for (var i=0;i<array_length(list);i++)
 		{
 			if (string_pos(string_lower(text_txt), string_lower(list_temp[i].map_name)) > 0)

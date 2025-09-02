@@ -34,7 +34,7 @@ if click_counter==2
 
 draw_self()
 
-draw_set_font(Font2)
+draw_set_font(image_loader.font_to)
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
