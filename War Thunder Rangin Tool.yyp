@@ -39,9 +39,8 @@
   "name":"War Thunder Rangin Tool",
   "resources":[
     {"id":{"name":"Font_1","path":"fonts/Font_1/Font_1.yy",},},
-    {"id":{"name":"Font_ch","path":"fonts/Font_ch/Font_ch.yy",},},
-    {"id":{"name":"Font_jp","path":"fonts/Font_jp/Font_jp.yy",},},
-    {"id":{"name":"Font_uk","path":"fonts/Font_uk/Font_uk.yy",},},
+    {"id":{"name":"font_ch","path":"fonts/font_ch/font_ch.yy",},},
+    {"id":{"name":"font_jp","path":"fonts/font_jp/font_jp.yy",},},
     {"id":{"name":"CLOSE_game","path":"objects/CLOSE_game/CLOSE_game.yy",},},
     {"id":{"name":"draw_array_range","path":"objects/draw_array_range/draw_array_range.yy",},},
     {"id":{"name":"Draw_map_range","path":"objects/Draw_map_range/Draw_map_range.yy",},},

@@ -23,7 +23,8 @@ qtt=0
 
 string_val=0
 
-font_to=Font_ch
+font_to=Font_1
 
 end_result=array_create(6)
 
+found_words=array_create(0)
