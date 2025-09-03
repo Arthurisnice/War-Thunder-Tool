@@ -170,7 +170,7 @@
       {
         "map_name": "Ardennes (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "Ardennes BIG (275m)",
@@ -250,7 +250,7 @@
       {
         "map_name": "Red Desert (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "Wroclaw (250m)",
@@ -555,7 +555,7 @@
       {
         "map_name": "Ardenas (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "Ardenas GRANDE (275m)",
@@ -635,7 +635,7 @@
       {
         "map_name": "Desierto Rojo (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "Breslavia (250m)",
@@ -940,7 +940,7 @@
       {
         "map_name": "Ardenas (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "Ardenas GRANDE (275m)",
@@ -1020,7 +1020,7 @@
       {
         "map_name": "Deserto Vermelho (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "Breslávia (250m)",
@@ -1325,7 +1325,7 @@
       {
         "map_name": "Арденни (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "Арденни ВЕЛИКА (275m)",
@@ -1405,7 +1405,7 @@
       {
         "map_name": "Червона пустеля (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "Вроцлав (250m)",
@@ -1710,7 +1710,7 @@
       {
         "map_name": "アルデンヌ (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "アルデンヌ 大きい (275m)",
@@ -1790,7 +1790,7 @@
       {
         "map_name": "赤い砂漠 (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "ヴロツワフ (250m)",
@@ -2095,7 +2095,7 @@
       {
         "map_name": "亞爾丁 (200m)",
         "map_value": 0.41,
-        "map_index": 3295
+        "map_index": 33
       },
       {
         "map_name": "亞爾丁 大的 (275m)",
@@ -2175,7 +2175,7 @@
       {
         "map_name": "紅色沙漠 (550m)",
         "map_value": 0.1436,
-        "map_index": 487
+        "map_index": 49
       },
       {
         "map_name": "弗羅茨瓦夫 (250m)",

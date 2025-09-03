@@ -1,9 +1,11 @@
 draw_sprite_stretched(spr_sheet,amount,340,85,600,600)
 draw_self()
 
-draw_text(635, 60,list[amount].map_name);
+
 
 draw_set_font(font_to);
+
+draw_text(635, 60,list[amount].map_name);
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
