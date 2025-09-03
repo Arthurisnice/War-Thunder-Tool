@@ -44,12 +44,11 @@ if click_counter==2
 {
 	var dis = point_distance(pos_x_arr[0],pos_y_arr[0],pos_x_arr[1],pos_y_arr[1])
 	draw_set_color(c_black)
-	var str_temp = round(dis/(image_loader.json_list[0].maps[image_loader.amount].map_value+edit_val))
+	var str_temp = round(dis/(image_loader.json_list[0].maps[image_loader.amount].map_value))
 	//var str_temp = round(dis/Draw_map_square.multi_val)
 	draw_text(x,y,string(str_temp)+"m")
 	draw_set_color(c_white)
-	draw_text(mouse_x,mouse_y+20,dis/edit_val)
 }
 
-
-draw_text(mouse_x,mouse_y-20,"0.000"+string(round(edit_val*10000)))
+var num_t = string_format(image_loader.json_list[0].maps[image_loader.amount].map_value+edit_val,1,5)
+//draw_text(mouse_x,mouse_y-20,num_t)
