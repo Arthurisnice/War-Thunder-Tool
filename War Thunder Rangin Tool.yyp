@@ -29,6 +29,7 @@
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"json_ranges#search - Copia.txt","CopyToMask":-1,"filePath":"datafiles","name":"json_ranges#search - Copia.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"json_ranges#search.txt","CopyToMask":-1,"filePath":"datafiles","name":"json_ranges#search.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
@@ -39,7 +40,9 @@
   "name":"War Thunder Rangin Tool",
   "resources":[
     {"id":{"name":"Font_1","path":"fonts/Font_1/Font_1.yy",},},
+    {"id":{"name":"Font_2","path":"fonts/Font_2/Font_2.yy",},},
     {"id":{"name":"CLOSE_game","path":"objects/CLOSE_game/CLOSE_game.yy",},},
+    {"id":{"name":"cmr","path":"objects/cmr/cmr.yy",},},
     {"id":{"name":"draw_array_range","path":"objects/draw_array_range/draw_array_range.yy",},},
     {"id":{"name":"Draw_map_range","path":"objects/Draw_map_range/Draw_map_range.yy",},},
     {"id":{"name":"Draw_map_square","path":"objects/Draw_map_square/Draw_map_square.yy",},},

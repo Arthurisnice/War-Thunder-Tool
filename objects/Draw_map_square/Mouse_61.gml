@@ -1,4 +1,4 @@
-if place_meeting(x,y,O_mouse)
+if keyboard_check(ord("E"))
 {
 	if amount>100 amount-=5
 }

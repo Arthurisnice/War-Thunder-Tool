@@ -31,9 +31,10 @@ if click_counter==2
 }
 
 draw_self()
-draw_set_font(Font1)
+draw_set_font(Font_2)
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
-draw_text(x,y,amount)
+draw_text(mouse_x,mouse_y-15,amount)
+draw_text(mouse_x,mouse_y+15,multi_val)
 
 

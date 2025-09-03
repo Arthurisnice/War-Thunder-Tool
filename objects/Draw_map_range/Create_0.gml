@@ -5,6 +5,8 @@ do_action=false
 
 amount=0
 
+edit_val=0
+
 deviation=0
 
 window_set_fullscreen(true)

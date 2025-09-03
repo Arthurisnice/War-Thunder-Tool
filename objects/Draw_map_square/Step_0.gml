@@ -1,4 +1,4 @@
-if mouse_check_button_pressed(mb_left) && O_mouse.area==true {click_counter++;do_action=true}
+if mouse_check_button_pressed(mb_right) && O_mouse.area==true {click_counter++;do_action=true}
 if click_counter>3 {click_counter=1}
 
 if do_action==true && click_counter==1
@@ -23,4 +23,4 @@ if click_counter=2
 	
 }
 
-multi_val=image_loader.range_array[image_loader.amount]
+//multi_val=image_loader.range_array[image_loader.amount]

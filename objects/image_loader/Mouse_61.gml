@@ -1,1 +1,1 @@
-//if amount>0 && place_meeting(mouse_x,mouse_y,O_area) {amount--}
+//if amount>0 && place_meeting(mouse_x,mouse_y,O_area) && keyboard_check(ord("Q")) {amount--}
