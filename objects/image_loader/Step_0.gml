@@ -1,7 +1,7 @@
 if place_meeting(x,y,O_mouse) && mouse_check_button_pressed(mb_left) 
 {
 	if searching==true {searching=false}
-	else if searching==false {searching=true}
+	else if searching==false {searching=true; text_txt=""}
 }
 if searching==true
 {
@@ -19,4 +19,3 @@ else
 }
 
 list = json_list[O_flag.val].maps;
-

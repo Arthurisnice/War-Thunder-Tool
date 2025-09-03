@@ -3,7 +3,7 @@ draw_self()
 
 draw_text(635, 60,list[amount].map_name);
 
-draw_set_font(font_to)
+draw_set_font(font_to);
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
@@ -29,5 +29,19 @@ if searching==true
 	var leng = string_width(text_txt)/2
 	string_val+=((leng)-string_val)/10
 	draw_line(x-string_val-3,y+85,x+string_val+1,y+85)
+	spin+=2
+	extra+=(10-extra)/50
 }
-else {text_txt=""; string_val+=(0-string_val)/10}
+else {string_val+=(0-string_val)/10; extra+=(30-extra)/25}
+
+if searching==false && spin!=0 
+{
+	spin+=4
+}
+
+if spin>360 {spin=0}
+
+var _x = x+extra+lengthdir_x(10,spin)
+var _y = y-extra+lengthdir_y(10,spin)
+
+draw_sprite(S_mag_glass,0,_x,_y)

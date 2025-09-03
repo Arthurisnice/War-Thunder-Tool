@@ -14,3 +14,6 @@ else
 	image_yscale=1
 }
 
+if val==4 {image_loader.font_to=global.font_ch}
+else if val==5 {image_loader.font_to=global.font_ch}
+else if val<4 {image_loader.font_to=Font_11}
