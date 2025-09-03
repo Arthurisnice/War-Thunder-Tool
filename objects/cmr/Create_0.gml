@@ -9,11 +9,12 @@ _y=0
 clam_x=0
 clam_y=0
 
-follow=self //what camera will follow
+follow_x=room_width/2
+follow_y=room_height/2
 
 screen_shake=false //variable to shake camera
 
-zoom_val=3 //zoom_value
+zoom_val=1 //zoom_value
 
 extra=0
 

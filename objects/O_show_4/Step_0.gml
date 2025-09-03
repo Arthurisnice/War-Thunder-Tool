@@ -15,3 +15,5 @@ if image_loader.text_txt=""
 	image_alpha=0
 }
 else {image_alpha=1}
+
+
