@@ -1,2312 +1,2322 @@
 [
-  {
-    "lang": "en",
-    "maps": [
-      {
-        "map_name": "Thanks for downloading",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "Second Battle of El Alamein BIG (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "Second Battle of El Alamein (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "Frozen Pass (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "Berlin (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "Eastern Europe (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "European Province (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "Finland (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "Jungle (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "Battle of Hurtgen Forest (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "Battle of Hurtgen Forest BIG (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "Ash River (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "Karelia (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "Carpathians (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "Fire Arc (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "Fire Arc BIG (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "Kuban (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "Mozdok (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "Mozdok BIG (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "Normandy Fields (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "Normandy (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "Poland (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "Polish Fields (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "Advance on the Rhine (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "Stalingrad (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "Tunisia (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "Tunisia BIG (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "Volokolamsk (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "Volokolamsk Outskirts (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "Sinai (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "Sands of Sinai (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "Parallel 38 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "Abandoned Factory (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "Ardennes (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "Ardennes BIG (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "Japan (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "Fulda (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "Fulda BIG(550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "Middle East (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "Maginot Line (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "Maginot Line BIG (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "Campania (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "American Desert (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "Vietnam (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "Vietnam BIG (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "Alaska (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "Cargo Port (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "Sweden (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "Seversk-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "Red Desert (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "Wroclaw (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "Cosmodrome (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "Aral Sea (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "Sun City (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "Ground Zero (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "Abandoned City (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "Pradesh LEFT (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "Pradesh RIGHT (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "Arctic. Docks (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "Arctic. Polar Base (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "Gold Mine (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "Gold Mine BIG (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "Poland (winter) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "Polish Fields (winter) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "Ardennes (winter) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "Ardennes (winter) BIG (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "Maginot Line (winter) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "Maginot Line (winter) BIG (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "Seversk-13 (winter) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "Iberian Castle (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "Testing Area - 2271 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "Flanders (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "North Holland (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "North Holland (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "Eastern Europe (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "Attica (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  },
-  {
-    "lang": "es",
-    "maps": [
-      {
-        "map_name": "Gracias por descargar",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "Segunda batalla de El Alamein GRANDE (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "Segunda batalla de El Alamein (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "Paso Congelado (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "Berlín (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "Europa Oriental (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "Provincia Europea (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "Finlandia (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "Selva (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "Batalla de la Floresta de Hurtgen (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "Batalla de la Floresta de Hurtgen GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "Río Ash (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "Carelia (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "Cárpatos (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "Arco de Fuego (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "Arco de Fuego GRANDE (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "Kuban (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "Mozdok (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "Mozdok GRANDE (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "Campos de Normandía (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "Normandía (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "Polonia (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "Campos de Polonia (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "Avance sobre el Rin (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "Stalingrado (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "Túnez (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "Túnez GRANDE (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "Volokolamsk (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "Afueras de Volokolamsk (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "Sinaí (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "Arenas del Sinaí (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "Paralelo 38 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "Fábrica Abandonada (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "Ardenas (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "Ardenas GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "Japón (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "Fulda (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "Fulda GRANDE (550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "Medio Oriente (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "Línea Maginot (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "Línea Maginot GRANDE (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "Campania (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "Desierto Americano (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "Vietnam (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "Vietnam GRANDE (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "Alaska (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "Puerto de Carga (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "Suecia (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "Seversk-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "Desierto Rojo (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "Breslavia (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "Cosmódromo (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "Mar de Aral (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "Ciudad del Sol (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "Zona Cero (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "Ciudad Abandonada (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "Pradesh IZQUIERDA (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "Pradesh DERECHA (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "Ártico. Muelles (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "Ártico. Base Polar (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "Mina de Oro (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "Mina de Oro GRANDE (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "Polonia (invierno) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "Campos de Polonia (invierno) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "Ardenas (invierno) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "Ardenas (invierno) GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "Línea Maginot (invierno) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "Línea Maginot (invierno) GRANDE (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "Seversk-13 (invierno) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "Castillo Ibérico (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "Área de Pruebas - 2271 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "Flandes (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "Holanda del Norte (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "Holanda del Norte (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "Europa Oriental (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "Ática (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  },
-  {
-    "lang": "pt",
-    "maps": [
-      {
-        "map_name": "Obrigado por baixar",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "Segunda batalha de El Alamein GRANDE (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "Segunda batalha de El Alamein (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "Frozen Pass (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "Berlim (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "Europa Oriental (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "Província Europeia (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "Finlândia (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "Selva (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "Batalha da Floresta de Hurtgen (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "Batalha da Floresta de Hurtgen GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "Ash River (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "Karelia (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "Cárpatos (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "Arco de fogo (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "Arco de fogo GRANDE (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "Kuban (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "Mozdok (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "Mozdok GRANDE (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "Campos da Normandia (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "Normandia (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "Polônia (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "Campos da Polônia (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "Avanço sobre o Reno (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "Stalingrado (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "Tunísia (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "Tunísia GRANDE (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "Volokolamsk (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "Redondezas de Volokomansk (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "Sinai (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "Areias do Sinai (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "Paralelo 38 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "Fábrica Abandonada (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "Ardenas (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "Ardenas GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "Japón (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "Fulda (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "Fulda GRANDE (550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "Oriente Médio (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "Linha Maginot (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "Linha Maginot GRANDE (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "Campânia (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "Deserto Americano (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "Vietname (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "Vietname GRANDE (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "Alasca (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "Porto de carga (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "Suécia (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "Seversk-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "Deserto Vermelho (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "Breslávia (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "Cosmódromo (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "Mar de Aral (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "Cidade do Sol (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "Ground zero (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "Cidade Abandonada (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "Pradesh ESQUERDA (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "Pradesh DIREITA (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "Ártico. Cais (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "Ártico. Base polar (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "Mina de Ouro (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "Mina de Ouro GRANDE (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "Polônia (inverno) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "Campos da Polônia (inverno) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "Ardenas (inverno) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "Ardenas (inverno) GRANDE (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "Linha Maginot (inverno) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "Linha Maginot (inverno) GRANDE (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "Seversk-13 (inverno) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "Castillo Ibérico (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "Área de Testes - 2271 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "Flandres (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "Holanda do Norte (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "Holanda do Norte (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "Europa Oriental (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "Ática (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  },
-  {
-    "lang": "uk",
-    "maps": [
-      {
-        "map_name": "Дякую за завантаження",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "Друга битва за Ель-Аламейн ВЕЛИКА (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "Друга битва за Ель-Аламейн (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "Замерзлий перевал (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "Берлін (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "Східна Європа (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "Європейська провінція (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "Фінляндія (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "Джунглі (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "Битва у лісі Хюртген (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "Битва у лісі Хюртген ВЕЛИКА (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "Річка Еш (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "Карелія (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "Карпати (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "Вогняна дуга (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "Вогняна дуга ВЕЛИКА (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "Кубань (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "Моздок (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "Моздок ВЕЛИКА (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "Поля Нормандії (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "Нормандія (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "Польща (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "Польські поля (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "Наступ на Рейн (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "Сталінград (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "Туніс (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "Туніс ВЕЛИКА (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "Волоколамськ (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "Околиці Волоколамська (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "Синай (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "Піски Синая (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "Паралель 38 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "Занедбаний завод (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "Арденни (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "Арденни ВЕЛИКА (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "Японія (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "Фульда (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "Фульда ВЕЛИКА (550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "Близький Схід (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "Лінія Мажино (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "Лінія Мажино ВЕЛИКА (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "Кампанія (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "Американська пустеля (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "В'єтнам (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "В'єтнам ВЕЛИКА (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "Аляска (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "Вантажний порт (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "Швеція (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "Северськ-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "Червона пустеля (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "Вроцлав (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "Космодром (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "Аральське море (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "Сонячне місто (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "Зона відчуження (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "Занедбане місто (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "Прадеш ЛІВИЙ (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "Прадеш ПРАВИЙ (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "Арктика. Доки (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "Арктика. Полярна база (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "Золота шахта (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "Золота шахта ВЕЛИКА (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "Польща (зима) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "Польські поля (зима) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "Арденни (зима) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "Арденни (зима) ВЕЛИКА (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "Лінія Мажино (зима) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "Лінія Мажино (зима) ВЕЛИКА (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "Северськ-13 (зима) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "Іберійський замок (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "Тестова зона - 2271 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "Фландрія (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "Північна Голландія (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "Північна Голландія (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "Східна Європа (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "Аттика (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  },
-  {
-    "lang": "jp",
-    "maps": [
-      {
-        "map_name": "ダウンロードしていただきありがとうございます",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "第二次エル・アラメインの戦い 大きい (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "第二次エル・アラメインの戦い (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "凍結された峠 (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "ベルリン (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "東欧 (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "欧州の片田舎 (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "フィンランド (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "密林 (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "ヒュルトゲンの森の戦い (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "ヒュルトゲンの森の戦い 大きい (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "アッシュリバー (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "カレリア (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "カルパティア (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "ファイアアーク (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "ファイアアーク 大きい (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "クバン (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "モズドク (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "モズドク 大きい (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "ノルマンディー平野 (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "ノルマンディー (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "ポーランド (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "ポーランド平原 (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "ライン川での攻勢 (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "スターリングラード (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "チュニジア (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "チュニジア 大きい (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "ヴォロコラムスク (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "ヴォロコラムスク郊外 (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "シナイ (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "シナイ砂漠 (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "38度線 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "廃棄された工場 (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "アルデンヌ (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "アルデンヌ 大きい (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "日本 (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "フルダ (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "フルダ 大きい (550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "中東 (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "マジノ線 (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "マジノ線 大きい (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "カンパニア (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "アメリカの砂漠 (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "ベトナム (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "ベトナム 大きい (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "アラスカ (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "カーゴポート (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "スウェーデン (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "セヴェルスク-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "赤い砂漠 (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "ヴロツワフ (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "宇宙船発射場 (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "アラル海 (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "太陽都市 (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "グラウンド・ゼロ (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "廃墟都市 (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "プラデーシュ 左 (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "プラデーシュ 右 (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "北極圏ドック (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "北極圏・極地基地 (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "金鉱 (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "金鉱 大きい (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "ポーランド (冬) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "ポーランド平原 (冬) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "アルデンヌ (冬) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "アルデンヌ (冬) 大きい (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "マジノ線 (冬) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "マジノ線 (冬) 大きい (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "セヴェルスク-13 (冬) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "イベリア城 (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "テストエリア - 2271 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "フランドル (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "北オランダ (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "北オランダ (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "東欧 (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "アッティカ (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  },
-  {
-    "lang": "ch",
-    "maps": [
-      {
-        "map_name": "感謝您下載",
-        "map_value": 0,
-        "map_index": 0
-      },
-      {
-        "map_name": "第二次阿拉曼戰役 大的 (300m)",
-        "map_value": 0.288,
-        "map_index": 1
-      },
-      {
-        "map_name": "第二次阿拉曼戰役 (250m)",
-        "map_value": 0.3295,
-        "map_index": 2
-      },
-      {
-        "map_name": "冰封山口 (170m)",
-        "map_value": 0.487,
-        "map_index": 3
-      },
-      {
-        "map_name": "柏林 (180m)",
-        "map_value": 0.46,
-        "map_index": 4
-      },
-      {
-        "map_name": "東歐 (225m)",
-        "map_value": 0.354,
-        "map_index": 5
-      },
-      {
-        "map_name": "歐洲省 (550m)",
-        "map_value": 0.1436,
-        "map_index": 6
-      },
-      {
-        "map_name": "芬蘭 (275m)",
-        "map_value": 0.2876,
-        "map_index": 7
-      },
-      {
-        "map_name": "叢林 (275m)",
-        "map_value": 0.2876,
-        "map_index": 8
-      },
-      {
-        "map_name": "許特根森林戰役 (250m)",
-        "map_value": 0.3295,
-        "map_index": 9
-      },
-      {
-        "map_name": "許特根森林戰役 大的 (275m)",
-        "map_value": 0.2876,
-        "map_index": 10
-      },
-      {
-        "map_name": "灰燼河 (150m)",
-        "map_value": 0.574 ,
-        "map_index": 11
-      },
-      {
-        "map_name": "卡累利阿 (180m)",
-        "map_value": 0.46,
-        "map_index": 12
-      },
-      {
-        "map_name": "喀爾巴阡山 (225m)",
-        "map_value": 0.354,
-        "map_index": 13
-      },
-      {
-        "map_name": "燃燒弧線 (200m)",
-        "map_value": 0.41,
-        "map_index": 14
-      },
-      {
-        "map_name": "燃燒弧線 大的 (500m)",
-        "map_value": 0.16,
-        "map_index": 15
-      },
-      {
-        "map_name": "庫班 (225m)",
-        "map_value": 0.354,
-        "map_index": 16
-      },
-      {
-        "map_name": "莫茲多克 (200m)",
-        "map_value": 0.41,
-        "map_index": 17
-      },
-      {
-        "map_name": "莫茲多克 大的 (325m)",
-        "map_value": 0.2554,
-        "map_index": 18
-      },
-      {
-        "map_name": "諾曼第田野 (250m)",
-        "map_value": 0.3295,
-        "map_index": 19
-      },
-      {
-        "map_name": "諾曼第 (200m)",
-        "map_value": 0.41,
-        "map_index": 20
-      },
-      {
-        "map_name": "波蘭 (250m)",
-        "map_value": 0.3295,
-        "map_index": 21
-      },
-      {
-        "map_name": "波蘭平原 (550m)",
-        "map_value": 0.1436,
-        "map_index": 22
-      },
-      {
-        "map_name": "萊茵河推進 (150m)",
-        "map_value": 0.574 ,
-        "map_index": 23
-      },
-      {
-        "map_name": "史達林格勒 (200m)",
-        "map_value": 0.41,
-        "map_index": 24
-      },
-      {
-        "map_name": "突尼斯 (225m)",
-        "map_value": 0.354,
-        "map_index": 25
-      },
-      {
-        "map_name": "突尼斯 大的 (450m)",
-        "map_value": 0.18,
-        "map_index": 26
-      },
-      {
-        "map_name": "沃洛科拉姆斯克 (200m)",
-        "map_value": 0.41,
-        "map_index": 27
-      },
-      {
-        "map_name": "沃洛科拉姆斯克郊區 (550m)",
-        "map_value": 0.1436,
-        "map_index": 28
-      },
-      {
-        "map_name": "西奈 (200m)",
-        "map_value": 0.41,
-        "map_index": 29
-      },
-      {
-        "map_name": "西奈沙地 (325m)",
-        "map_value": 0.2554,
-        "map_index": 30
-      },
-      {
-        "map_name": "38度線 (200m)",
-        "map_value": 0.41,
-        "map_index": 31
-      },
-      {
-        "map_name": "廢棄工廠 (170m)",
-        "map_value": 0.487,
-        "map_index": 32
-      },
-      {
-        "map_name": "亞爾丁 (200m)",
-        "map_value": 0.41,
-        "map_index": 33
-      },
-      {
-        "map_name": "亞爾丁 大的 (275m)",
-        "map_value": 0.2876,
-        "map_index": 34
-      },
-      {
-        "map_name": "日本 (225m)",
-        "map_value": 0.354,
-        "map_index": 35
-      },
-      {
-        "map_name": "富爾達 (250m)",
-        "map_value": 0.3295,
-        "map_index": 36
-      },
-      {
-        "map_name": "富爾達 大的(550m)",
-        "map_value": 0.1436,
-        "map_index": 37
-      },
-      {
-        "map_name": "中東 (275m)",
-        "map_value": 0.2876,
-        "map_index": 38
-      },
-      {
-        "map_name": "馬其諾防線 (250m)",
-        "map_value": 0.3295,
-        "map_index": 39
-      },
-      {
-        "map_name": "馬其諾防線 大的 (400m)",
-        "map_value": 0.19745,
-        "map_index": 40
-      },
-      {
-        "map_name": "坎帕尼亞 (250m)",
-        "map_value": 0.3295,
-        "map_index": 41
-      },
-      {
-        "map_name": "美洲沙漠 (190m)",
-        "map_value": 0.44,
-        "map_index": 42
-      },
-      {
-        "map_name": "越南 (250m)",
-        "map_value": 0.3295,
-        "map_index": 43
-      },
-      {
-        "map_name": "越南 大的 (325m)",
-        "map_value": 0.2554,
-        "map_index": 44
-      },
-      {
-        "map_name": "阿拉斯加 (200m)",
-        "map_value": 0.41,
-        "map_index": 45
-      },
-      {
-        "map_name": "貨物港 (250m)",
-        "map_value": 0.3295,
-        "map_index": 46
-      },
-      {
-        "map_name": "瑞典 (200m)",
-        "map_value": 0.41,
-        "map_index": 47
-      },
-      {
-        "map_name": "謝韋爾斯克-13 (200m)",
-        "map_value": 0.41,
-        "map_index": 48
-      },
-      {
-        "map_name": "紅色沙漠 (550m)",
-        "map_value": 0.1436,
-        "map_index": 49
-      },
-      {
-        "map_name": "弗羅茨瓦夫 (250m)",
-        "map_value": 0.3295,
-        "map_index": 50
-      },
-      {
-        "map_name": "太空中心 (300m)",
-        "map_value": 0.288,
-        "map_index": 51
-      },
-      {
-        "map_name": "鹹海 (250m)",
-        "map_value": 0.3295,
-        "map_index": 52
-      },
-      {
-        "map_name": "太陽城 (225m)",
-        "map_value": 0.354,
-        "map_index": 53
-      },
-      {
-        "map_name": "零點 (200m)",
-        "map_value": 0.41,
-        "map_index": 54
-      },
-      {
-        "map_name": "廢棄城市 (225m)",
-        "map_value": 0.354,
-        "map_index": 55
-      },
-      {
-        "map_name": "普拉德什左側 (400m)",
-        "map_value": 0.19745,
-        "map_index": 56
-      },
-      {
-        "map_name": "普拉德什右側 (400m)",
-        "map_value": 0.19745,
-        "map_index": 57
-      },
-      {
-        "map_name": "北極.碼頭 (275m)",
-        "map_value": 0.2876,
-        "map_index": 58
-      },
-      {
-        "map_name": "北極.極地基地 (200m)",
-        "map_value": 0.41,
-        "map_index": 59
-      },
-      {
-        "map_name": "金礦 (225m)",
-        "map_value": 0.354,
-        "map_index": 60
-      },
-      {
-        "map_name": "金礦 大的 (300m)",
-        "map_value": 0.288,
-        "map_index": 61
-      },
-      {
-        "map_name": "波蘭(冬季) (250m)",
-        "map_value": 0.3295,
-        "map_index": 62
-      },
-      {
-        "map_name": "波蘭平原(冬季) (550m)",
-        "map_value": 0.1436,
-        "map_index": 63
-      },
-      {
-        "map_name": "亞爾丁(冬季) (200m)",
-        "map_value": 0.41,
-        "map_index": 64
-      },
-      {
-        "map_name": "亞爾丁(冬季) 大的 (275m)",
-        "map_value": 0.2876,
-        "map_index": 65
-      },
-      {
-        "map_name": "馬其諾防線(冬季) (250m)",
-        "map_value": 0.3295,
-        "map_index": 66
-      },
-      {
-        "map_name": "馬其諾防線(冬季) 大的 (400m)",
-        "map_value": 0.19745,
-        "map_index": 67
-      },
-      {
-        "map_name": "謝韋爾斯克-13(冬季) (200m)",
-        "map_value": 0.41,
-        "map_index": 68
-      },
-      {
-        "map_name": "伊比利亞城堡 (225m)",
-        "map_value": 0.354,
-        "map_index": 69
-      },
-      {
-        "map_name": "伊比利亞城堡 (225m)",
-        "map_value": 0.354,
-        "map_index": 70
-      },
-      {
-        "map_name": "法蘭德斯 (250m)",
-        "map_value": 0.3295,
-        "map_index": 71
-      },
-      {
-        "map_name": "北荷蘭 (200m)",
-        "map_value": 0.41,
-        "map_index": 72
-      },
-      {
-        "map_name": "北荷蘭 (250m)",
-        "map_value": 0.3295,
-        "map_index": 73
-      },
-      {
-        "map_name": "東歐 (225m)",
-        "map_value": 0.354,
-        "map_index": 74
-      },
-      {
-        "map_name": "阿提卡 (225m)",
-        "map_value": 0.354,
-        "map_index": 75
-      }
-    ]
-  }
+    {
+        "lang": "en",
+        "maps": [
+            {
+                "map_name": "Thanks for downloading",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "Second Battle of El Alamein BIG (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "Second Battle of El Alamein (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "Frozen Pass (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "Berlin (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "Eastern Europe (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "European Province (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "Finland (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "Jungle (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "Battle of Hurtgen Forest (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "Battle of Hurtgen Forest BIG (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "Ash River (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "Karelia (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "Carpathians (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "Fire Arc (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "Fire Arc BIG (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "Kuban (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "Mozdok (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "Mozdok BIG (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "Normandy Fields (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "Normandy (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "Poland (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "Polish Fields (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "Advance on the Rhine (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "Stalingrad (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "Tunisia (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "Tunisia BIG (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "Volokolamsk (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "Volokolamsk Outskirts (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "Sinai (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "Sands of Sinai (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "Parallel 38 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "Abandoned Factory (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "Ardennes (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "Ardennes BIG (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "Japan (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "Fulda (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "Fulda BIG(550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "Middle East (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "Maginot Line (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "Maginot Line BIG (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "Campania (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "American Desert (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "Vietnam (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "Vietnam BIG (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "Alaska (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "Cargo Port (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "Sweden (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "Seversk-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "Red Desert (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "Wroclaw (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "Cosmodrome (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "Aral Sea (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "Sun City (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "Ground Zero (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "Abandoned City (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "Pradesh LEFT (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "Pradesh RIGHT (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "Arctic. Docks (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "Arctic. Polar Base (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "Gold Mine (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "Gold Mine BIG (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "Poland (winter) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "Polish Fields (winter) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "Ardennes (winter) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "Ardennes (winter) BIG (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "Maginot Line (winter) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "Maginot Line (winter) BIG (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "Seversk-13 (winter) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "Iberian Castle (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "Testing Area - 2271 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "Flanders (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "North Holland (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "North Holland (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "Eastern Europe (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "Attica (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "lang": "es",
+        "maps": [
+            {
+                "map_name": "Gracias por descargar",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "Segunda batalla de El Alamein GRANDE (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "Segunda batalla de El Alamein (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "Paso Congelado (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "Berlín (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "Europa Oriental (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "Provincia Europea (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "Finlandia (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "Selva (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "Batalla de la Floresta de Hurtgen (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "Batalla de la Floresta de Hurtgen GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "Río Ash (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "Carelia (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "Cárpatos (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "Arco de Fuego (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "Arco de Fuego GRANDE (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "Kuban (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "Mozdok (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "Mozdok GRANDE (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "Campos de Normandía (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "Normandía (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "Polonia (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "Campos de Polonia (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "Avance sobre el Rin (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "Stalingrado (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "Túnez (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "Túnez GRANDE (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "Volokolamsk (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "Afueras de Volokolamsk (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "Sinaí (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "Arenas del Sinaí (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "Paralelo 38 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "Fábrica Abandonada (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "Ardenas (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "Ardenas GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "Japón (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "Fulda (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "Fulda GRANDE (550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "Medio Oriente (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "Línea Maginot (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "Línea Maginot GRANDE (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "Campania (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "Desierto Americano (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "Vietnam (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "Vietnam GRANDE (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "Alaska (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "Puerto de Carga (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "Suecia (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "Seversk-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "Desierto Rojo (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "Breslavia (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "Cosmódromo (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "Mar de Aral (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "Ciudad del Sol (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "Zona Cero (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "Ciudad Abandonada (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "Pradesh IZQUIERDA (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "Pradesh DERECHA (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "Ártico. Muelles (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "Ártico. Base Polar (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "Mina de Oro (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "Mina de Oro GRANDE (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "Polonia (invierno) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "Campos de Polonia (invierno) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "Ardenas (invierno) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "Ardenas (invierno) GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "Línea Maginot (invierno) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "Línea Maginot (invierno) GRANDE (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "Seversk-13 (invierno) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "Castillo Ibérico (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "Área de Pruebas - 2271 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "Flandes (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "Holanda del Norte (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "Holanda del Norte (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "Europa Oriental (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "Ática (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "lang": "pt",
+        "maps": [
+            {
+                "map_name": "Obrigado por baixar",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "Segunda batalha de El Alamein GRANDE (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "Segunda batalha de El Alamein (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "Frozen Pass (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "Berlim (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "Europa Oriental (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "Província Europeia (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "Finlândia (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "Selva (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "Batalha da Floresta de Hurtgen (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "Batalha da Floresta de Hurtgen GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "Ash River (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "Karelia (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "Cárpatos (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "Arco de fogo (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "Arco de fogo GRANDE (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "Kuban (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "Mozdok (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "Mozdok GRANDE (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "Campos da Normandia (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "Normandia (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "Polônia (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "Campos da Polônia (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "Avanço sobre o Reno (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "Stalingrado (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "Tunísia (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "Tunísia GRANDE (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "Volokolamsk (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "Redondezas de Volokomansk (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "Sinai (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "Areias do Sinai (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "Paralelo 38 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "Fábrica Abandonada (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "Ardenas (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "Ardenas GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "Japón (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "Fulda (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "Fulda GRANDE (550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "Oriente Médio (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "Linha Maginot (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "Linha Maginot GRANDE (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "Campânia (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "Deserto Americano (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "Vietname (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "Vietname GRANDE (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "Alasca (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "Porto de carga (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "Suécia (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "Seversk-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "Deserto Vermelho (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "Breslávia (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "Cosmódromo (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "Mar de Aral (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "Cidade do Sol (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "Ground zero (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "Cidade Abandonada (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "Pradesh ESQUERDA (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "Pradesh DIREITA (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "Ártico. Cais (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "Ártico. Base polar (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "Mina de Ouro (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "Mina de Ouro GRANDE (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "Polônia (inverno) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "Campos da Polônia (inverno) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "Ardenas (inverno) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "Ardenas (inverno) GRANDE (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "Linha Maginot (inverno) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "Linha Maginot (inverno) GRANDE (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "Seversk-13 (inverno) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "Castillo Ibérico (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "Área de Testes - 2271 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "Flandres (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "Holanda do Norte (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "Holanda do Norte (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "Europa Oriental (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "Ática (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "lang": "uk",
+        "maps": [
+            {
+                "map_name": "Дякую за завантаження",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "Друга битва за Ель-Аламейн ВЕЛИКА (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "Друга битва за Ель-Аламейн (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "Замерзлий перевал (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "Берлін (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "Східна Європа (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "Європейська провінція (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "Фінляндія (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "Джунглі (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "Битва у лісі Хюртген (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "Битва у лісі Хюртген ВЕЛИКА (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "Річка Еш (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "Карелія (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "Карпати (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "Вогняна дуга (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "Вогняна дуга ВЕЛИКА (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "Кубань (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "Моздок (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "Моздок ВЕЛИКА (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "Поля Нормандії (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "Нормандія (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "Польща (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "Польські поля (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "Наступ на Рейн (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "Сталінград (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "Туніс (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "Туніс ВЕЛИКА (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "Волоколамськ (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "Околиці Волоколамська (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "Синай (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "Піски Синая (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "Паралель 38 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "Занедбаний завод (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "Арденни (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "Арденни ВЕЛИКА (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "Японія (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "Фульда (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "Фульда ВЕЛИКА (550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "Близький Схід (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "Лінія Мажино (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "Лінія Мажино ВЕЛИКА (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "Кампанія (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "Американська пустеля (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "В'єтнам (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "В'єтнам ВЕЛИКА (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "Аляска (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "Вантажний порт (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "Швеція (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "Северськ-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "Червона пустеля (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "Вроцлав (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "Космодром (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "Аральське море (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "Сонячне місто (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "Зона відчуження (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "Занедбане місто (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "Прадеш ЛІВИЙ (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "Прадеш ПРАВИЙ (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "Арктика. Доки (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "Арктика. Полярна база (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "Золота шахта (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "Золота шахта ВЕЛИКА (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "Польща (зима) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "Польські поля (зима) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "Арденни (зима) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "Арденни (зима) ВЕЛИКА (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "Лінія Мажино (зима) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "Лінія Мажино (зима) ВЕЛИКА (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "Северськ-13 (зима) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "Іберійський замок (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "Тестова зона - 2271 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "Фландрія (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "Північна Голландія (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "Північна Голландія (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "Східна Європа (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "Аттика (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "lang": "jp",
+        "maps": [
+            {
+                "map_name": "ダウンロードしていただきありがとうございます",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "第二次エル・アラメインの戦い 大きい (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "第二次エル・アラメインの戦い (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "凍結された峠 (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "ベルリン (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "東欧 (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "欧州の片田舎 (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "フィンランド (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "密林 (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "ヒュルトゲンの森の戦い (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "ヒュルトゲンの森の戦い 大きい (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "アッシュリバー (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "カレリア (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "カルパティア (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "ファイアアーク (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "ファイアアーク 大きい (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "クバン (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "モズドク (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "モズドク 大きい (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "ノルマンディー平野 (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "ノルマンディー (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "ポーランド (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "ポーランド平原 (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "ライン川での攻勢 (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "スターリングラード (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "チュニジア (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "チュニジア 大きい (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "ヴォロコラムスク (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "ヴォロコラムスク郊外 (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "シナイ (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "シナイ砂漠 (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "38度線 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "廃棄された工場 (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "アルデンヌ (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "アルデンヌ 大きい (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "日本 (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "フルダ (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "フルダ 大きい (550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "中東 (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "マジノ線 (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "マジノ線 大きい (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "カンパニア (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "アメリカの砂漠 (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "ベトナム (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "ベトナム 大きい (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "アラスカ (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "カーゴポート (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "スウェーデン (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "セヴェルスク-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "赤い砂漠 (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "ヴロツワフ (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "宇宙船発射場 (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "アラル海 (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "太陽都市 (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "グラウンド・ゼロ (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "廃墟都市 (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "プラデーシュ 左 (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "プラデーシュ 右 (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "北極圏ドック (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "北極圏・極地基地 (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "金鉱 (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "金鉱 大きい (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "ポーランド (冬) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "ポーランド平原 (冬) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "アルデンヌ (冬) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "アルデンヌ (冬) 大きい (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "マジノ線 (冬) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "マジノ線 (冬) 大きい (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "セヴェルスク-13 (冬) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "イベリア城 (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "テストエリア - 2271 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "フランドル (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "北オランダ (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "北オランダ (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "東欧 (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "アッティカ (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "lang": "ch",
+        "maps": [
+            {
+                "map_name": "感謝您下載",
+                "map_value": 0,
+                "map_index": 0
+            },
+            {
+                "map_name": "第二次阿拉曼戰役 大的 (300m)",
+                "map_value": 0.288,
+                "map_index": 1
+            },
+            {
+                "map_name": "第二次阿拉曼戰役 (250m)",
+                "map_value": 0.3295,
+                "map_index": 2
+            },
+            {
+                "map_name": "冰封山口 (170m)",
+                "map_value": 0.487,
+                "map_index": 3
+            },
+            {
+                "map_name": "柏林 (180m)",
+                "map_value": 0.46,
+                "map_index": 4
+            },
+            {
+                "map_name": "東歐 (225m)",
+                "map_value": 0.354,
+                "map_index": 5
+            },
+            {
+                "map_name": "歐洲省 (550m)",
+                "map_value": 0.1436,
+                "map_index": 6
+            },
+            {
+                "map_name": "芬蘭 (275m)",
+                "map_value": 0.2876,
+                "map_index": 7
+            },
+            {
+                "map_name": "叢林 (275m)",
+                "map_value": 0.2876,
+                "map_index": 8
+            },
+            {
+                "map_name": "許特根森林戰役 (250m)",
+                "map_value": 0.3295,
+                "map_index": 9
+            },
+            {
+                "map_name": "許特根森林戰役 大的 (275m)",
+                "map_value": 0.2876,
+                "map_index": 10
+            },
+            {
+                "map_name": "灰燼河 (150m)",
+                "map_value": 0.574,
+                "map_index": 11
+            },
+            {
+                "map_name": "卡累利阿 (180m)",
+                "map_value": 0.46,
+                "map_index": 12
+            },
+            {
+                "map_name": "喀爾巴阡山 (225m)",
+                "map_value": 0.354,
+                "map_index": 13
+            },
+            {
+                "map_name": "燃燒弧線 (200m)",
+                "map_value": 0.41,
+                "map_index": 14
+            },
+            {
+                "map_name": "燃燒弧線 大的 (500m)",
+                "map_value": 0.16,
+                "map_index": 15
+            },
+            {
+                "map_name": "庫班 (225m)",
+                "map_value": 0.354,
+                "map_index": 16
+            },
+            {
+                "map_name": "莫茲多克 (200m)",
+                "map_value": 0.41,
+                "map_index": 17
+            },
+            {
+                "map_name": "莫茲多克 大的 (325m)",
+                "map_value": 0.2554,
+                "map_index": 18
+            },
+            {
+                "map_name": "諾曼第田野 (250m)",
+                "map_value": 0.3295,
+                "map_index": 19
+            },
+            {
+                "map_name": "諾曼第 (200m)",
+                "map_value": 0.41,
+                "map_index": 20
+            },
+            {
+                "map_name": "波蘭 (250m)",
+                "map_value": 0.3295,
+                "map_index": 21
+            },
+            {
+                "map_name": "波蘭平原 (550m)",
+                "map_value": 0.1436,
+                "map_index": 22
+            },
+            {
+                "map_name": "萊茵河推進 (150m)",
+                "map_value": 0.574,
+                "map_index": 23
+            },
+            {
+                "map_name": "史達林格勒 (200m)",
+                "map_value": 0.41,
+                "map_index": 24
+            },
+            {
+                "map_name": "突尼斯 (225m)",
+                "map_value": 0.354,
+                "map_index": 25
+            },
+            {
+                "map_name": "突尼斯 大的 (450m)",
+                "map_value": 0.18,
+                "map_index": 26
+            },
+            {
+                "map_name": "沃洛科拉姆斯克 (200m)",
+                "map_value": 0.41,
+                "map_index": 27
+            },
+            {
+                "map_name": "沃洛科拉姆斯克郊區 (550m)",
+                "map_value": 0.1436,
+                "map_index": 28
+            },
+            {
+                "map_name": "西奈 (200m)",
+                "map_value": 0.41,
+                "map_index": 29
+            },
+            {
+                "map_name": "西奈沙地 (325m)",
+                "map_value": 0.2554,
+                "map_index": 30
+            },
+            {
+                "map_name": "38度線 (200m)",
+                "map_value": 0.41,
+                "map_index": 31
+            },
+            {
+                "map_name": "廢棄工廠 (170m)",
+                "map_value": 0.487,
+                "map_index": 32
+            },
+            {
+                "map_name": "亞爾丁 (200m)",
+                "map_value": 0.41,
+                "map_index": 33
+            },
+            {
+                "map_name": "亞爾丁 大的 (275m)",
+                "map_value": 0.2876,
+                "map_index": 34
+            },
+            {
+                "map_name": "日本 (225m)",
+                "map_value": 0.354,
+                "map_index": 35
+            },
+            {
+                "map_name": "富爾達 (250m)",
+                "map_value": 0.3295,
+                "map_index": 36
+            },
+            {
+                "map_name": "富爾達 大的(550m)",
+                "map_value": 0.1436,
+                "map_index": 37
+            },
+            {
+                "map_name": "中東 (275m)",
+                "map_value": 0.2876,
+                "map_index": 38
+            },
+            {
+                "map_name": "馬其諾防線 (250m)",
+                "map_value": 0.3295,
+                "map_index": 39
+            },
+            {
+                "map_name": "馬其諾防線 大的 (400m)",
+                "map_value": 0.19745,
+                "map_index": 40
+            },
+            {
+                "map_name": "坎帕尼亞 (250m)",
+                "map_value": 0.3295,
+                "map_index": 41
+            },
+            {
+                "map_name": "美洲沙漠 (190m)",
+                "map_value": 0.44,
+                "map_index": 42
+            },
+            {
+                "map_name": "越南 (250m)",
+                "map_value": 0.3295,
+                "map_index": 43
+            },
+            {
+                "map_name": "越南 大的 (325m)",
+                "map_value": 0.2554,
+                "map_index": 44
+            },
+            {
+                "map_name": "阿拉斯加 (200m)",
+                "map_value": 0.41,
+                "map_index": 45
+            },
+            {
+                "map_name": "貨物港 (250m)",
+                "map_value": 0.3295,
+                "map_index": 46
+            },
+            {
+                "map_name": "瑞典 (200m)",
+                "map_value": 0.41,
+                "map_index": 47
+            },
+            {
+                "map_name": "謝韋爾斯克-13 (200m)",
+                "map_value": 0.41,
+                "map_index": 48
+            },
+            {
+                "map_name": "紅色沙漠 (550m)",
+                "map_value": 0.1436,
+                "map_index": 49
+            },
+            {
+                "map_name": "弗羅茨瓦夫 (250m)",
+                "map_value": 0.3295,
+                "map_index": 50
+            },
+            {
+                "map_name": "太空中心 (300m)",
+                "map_value": 0.288,
+                "map_index": 51
+            },
+            {
+                "map_name": "鹹海 (250m)",
+                "map_value": 0.3295,
+                "map_index": 52
+            },
+            {
+                "map_name": "太陽城 (225m)",
+                "map_value": 0.354,
+                "map_index": 53
+            },
+            {
+                "map_name": "零點 (200m)",
+                "map_value": 0.41,
+                "map_index": 54
+            },
+            {
+                "map_name": "廢棄城市 (225m)",
+                "map_value": 0.354,
+                "map_index": 55
+            },
+            {
+                "map_name": "普拉德什左側 (400m)",
+                "map_value": 0.19745,
+                "map_index": 56
+            },
+            {
+                "map_name": "普拉德什右側 (400m)",
+                "map_value": 0.19745,
+                "map_index": 57
+            },
+            {
+                "map_name": "北極.碼頭 (275m)",
+                "map_value": 0.2876,
+                "map_index": 58
+            },
+            {
+                "map_name": "北極.極地基地 (200m)",
+                "map_value": 0.41,
+                "map_index": 59
+            },
+            {
+                "map_name": "金礦 (225m)",
+                "map_value": 0.354,
+                "map_index": 60
+            },
+            {
+                "map_name": "金礦 大的 (300m)",
+                "map_value": 0.288,
+                "map_index": 61
+            },
+            {
+                "map_name": "波蘭(冬季) (250m)",
+                "map_value": 0.3295,
+                "map_index": 62
+            },
+            {
+                "map_name": "波蘭平原(冬季) (550m)",
+                "map_value": 0.1436,
+                "map_index": 63
+            },
+            {
+                "map_name": "亞爾丁(冬季) (200m)",
+                "map_value": 0.41,
+                "map_index": 64
+            },
+            {
+                "map_name": "亞爾丁(冬季) 大的 (275m)",
+                "map_value": 0.2876,
+                "map_index": 65
+            },
+            {
+                "map_name": "馬其諾防線(冬季) (250m)",
+                "map_value": 0.3295,
+                "map_index": 66
+            },
+            {
+                "map_name": "馬其諾防線(冬季) 大的 (400m)",
+                "map_value": 0.19745,
+                "map_index": 67
+            },
+            {
+                "map_name": "謝韋爾斯克-13(冬季) (200m)",
+                "map_value": 0.41,
+                "map_index": 68
+            },
+            {
+                "map_name": "伊比利亞城堡 (225m)",
+                "map_value": 0.354,
+                "map_index": 69
+            },
+            {
+                "map_name": "伊比利亞城堡 (225m)",
+                "map_value": 0.354,
+                "map_index": 70
+            },
+            {
+                "map_name": "法蘭德斯 (250m)",
+                "map_value": 0.3295,
+                "map_index": 71
+            },
+            {
+                "map_name": "北荷蘭 (200m)",
+                "map_value": 0.41,
+                "map_index": 72
+            },
+            {
+                "map_name": "北荷蘭 (250m)",
+                "map_value": 0.3295,
+                "map_index": 73
+            },
+            {
+                "map_name": "東歐 (225m)",
+                "map_value": 0.354,
+                "map_index": 74
+            },
+            {
+                "map_name": "阿提卡 (225m)",
+                "map_value": 0.354,
+                "map_index": 75
+            }
+        ]
+    },
+    {
+        "texts": [
+                "For any bugs or wrong translations contact me on Discord:",
+                "Para cualquier error o traducción incorrecta, contáctame en Discord:",
+                "Para quaisquer erros ou traduções incorretas entre em contato comigo no Discord:",
+                "Для будь-яких помилок або неправильних перекладів зв’яжіться зі мною в Discord:",
+                "バグや誤訳があれば、Discordでご連絡ください:",
+                "如有任何错误或翻译问题，请在 Discord 上联系我："
+            ]
+    }
 ]

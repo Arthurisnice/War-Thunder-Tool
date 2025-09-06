@@ -5,7 +5,7 @@ draw_self()
 
 draw_set_font(font_to);
 
-draw_text(635, 60,list[amount].map_name);
+draw_text(640, 60,list[amount].map_name);
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
@@ -47,3 +47,5 @@ var _x = x+extra+lengthdir_x(10,spin)
 var _y = y-extra+lengthdir_y(10,spin)
 
 draw_sprite(S_mag_glass,0,_x,_y)
+
+//draw_text(640,700,json_list[6].texts[O_flag.val] + "vel_ha")
